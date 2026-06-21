@@ -1,5 +1,7 @@
 # skills
 
+[![skills.sh](https://skills.sh/b/jaggedmountain/skills)](https://skills.sh/jaggedmountain/skills)
+
 A collection of [agent skills](https://skills.sh/), one directory per skill.
 
 Install or run with the [`skills`](https://skills.sh/) CLI.
